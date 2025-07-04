@@ -89,18 +89,10 @@ images/
 
 - Java Desktop module (`java.desktop`) for Swing components.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Screenshots
-
-Include screenshots of the application interface here.
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## Contact
 
-For questions or support, contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, contact [your-email@example.com](mailto:naolaboma@gmail.com).
