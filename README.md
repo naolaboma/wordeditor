@@ -42,7 +42,7 @@ WordEditor is a Java-based text editor application designed to provide rich text
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/wordeditor.git
+   git clone https://github.com/naolaboma/wordeditor.git
    ```
 
 2. Open the project in your IDE (e.g., IntelliJ IDEA or Eclipse).
